@@ -19,9 +19,9 @@ $backquote_background_color: #eaeaea;
 @import url('//fonts.googleapis.com/css?family=Raleway');
 
 html, body {
-  height: 100%;
   position: relative;
   min-height: 100%;
+  margin: 0;
 }
 
 body {
