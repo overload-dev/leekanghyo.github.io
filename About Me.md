@@ -7,7 +7,7 @@ permalink: /About Me/
 <ul>
 	<li>이강효 (李康孝, Lee Kanghyo) 1991년 11월 20일</li>
 	<li>대한민국 서울특별시 마포구 신수동</li>
-	<li>웹 프로그래머 (지망)</li>
+	<li>웹 프로그래머</li>
 </ul>
 
 <h2>Skill</h2>
