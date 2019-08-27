@@ -20,8 +20,8 @@ permalink: /about me/
 	<li><h3>Programming</h3>
 		<ul>
 			<li>IDE: Eclipse</li>
-			<li>Language: Java, JavaScript(JQuery), HTML(JSP, JSTL, CSS)</li>
-			<li>FrameWork: Spring, myBatis</li>
+			<li>Language: Java, JavaScript(JQuery), HTML(JSP, JSTL, CSS), php, Python</li>
+			<li>FrameWork: Spring, Tiles, myBatis</li>
 			<li>Data Base: OracleDB</li>			
 		</ul>
 	</li>
