@@ -96,8 +96,12 @@ body {
 
   footer {
     padding-top: 20px;
-    position: inherit;
     bottom: auto;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
   }
 }
 
